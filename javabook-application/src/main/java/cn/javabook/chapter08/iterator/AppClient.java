@@ -12,7 +12,6 @@ import cn.javabook.chapter08.strategy.PayByAlipay;
 import cn.javabook.chapter08.strategy.PayByWeixin;
 import cn.javabook.chapter08.facade.FinanceFacade;
 import cn.javabook.chapter08.memento.Caretaker;
-import com.javabook.chapter01.chain.*;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
