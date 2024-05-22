@@ -1,6 +1,6 @@
 package buy_money_rules;
 
-import cn.javabook.chapter05.entity.Coupon;
+import cn.javabook.chapter12.entity.Coupon;
 
 rule "point"
     when

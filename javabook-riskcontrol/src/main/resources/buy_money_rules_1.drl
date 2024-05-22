@@ -1,7 +1,7 @@
 // 包名
 package buy_money_rules;
 
-import cn.javabook.chapter05.entity.Coupon;
+import cn.javabook.chapter12.entity.Coupon;
 // 全局变量
 global Coupon coupon
 

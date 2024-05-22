@@ -1,8 +1,8 @@
 package rc_rules;
 
-import cn.javabook.chapter05.entity.LoginEvent
-import cn.javabook.chapter05.service.BlackListService
-import cn.javabook.chapter05.service.EventService
+import cn.javabook.chapter12.entity.LoginEvent
+import cn.javabook.chapter12.service.BlackListService
+import cn.javabook.chapter12.service.EventService
 
 global BlackListService blackListService
 global EventService eventService
