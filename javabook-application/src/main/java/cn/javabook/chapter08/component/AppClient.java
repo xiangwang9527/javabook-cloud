@@ -15,8 +15,6 @@ import cn.javabook.chapter08.observer.WeixinPayment;
 import cn.javabook.chapter08.strategy.PayByBalance;
 import cn.javabook.chapter08.strategy.PayByAlipay;
 import cn.javabook.chapter08.strategy.PayByWeixin;
-import com.javabook.chapter01.chain.*;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
