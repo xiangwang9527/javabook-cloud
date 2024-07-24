@@ -4,7 +4,6 @@ import cn.javabook.chapter10.entity.*;
 import cn.javabook.chapter10.exception.AppListenerQueueException;
 import cn.javabook.chapter10.exception.AppPayProviderException;
 import cn.javabook.cloud.core.enums.*;
-import com.javabook.chapter03.entity.*;
 import cn.javabook.cloud.core.constant.GlobalConstant;
 import cn.javabook.cloud.core.parent.BaseService;
 import cn.javabook.cloud.core.utils.MD5Util;

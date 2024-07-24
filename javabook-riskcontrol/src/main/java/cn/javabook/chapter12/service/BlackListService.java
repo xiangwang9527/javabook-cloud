@@ -2,7 +2,7 @@ package cn.javabook.chapter12.service;
 
 import cn.javabook.chapter12.dao.MySQLDao;
 import cn.javabook.chapter12.entity.BlackList;
-import com.javabook.chapter05.utils.DateUtils;
+import cn.javabook.chapter12.utils.DateUtils;
 import org.springframework.stereotype.Service;
 import javax.annotation.PostConstruct;
 import javax.annotation.Resource;

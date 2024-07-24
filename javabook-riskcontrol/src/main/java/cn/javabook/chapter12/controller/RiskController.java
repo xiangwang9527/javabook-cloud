@@ -1,6 +1,6 @@
 package cn.javabook.chapter12.controller;
 
-import com.javabook.chapter05.service.StatefulKieService;
+import cn.javabook.chapter12.service.StatefulKieService;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

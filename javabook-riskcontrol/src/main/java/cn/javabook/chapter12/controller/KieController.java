@@ -1,7 +1,7 @@
 package cn.javabook.chapter12.controller;
 
-import com.javabook.chapter05.entity.Coupon;
-import com.javabook.chapter05.service.StatelessKieService;
+import cn.javabook.chapter12.entity.Coupon;
+import cn.javabook.chapter12.service.StatelessKieService;
 import org.drools.decisiontable.InputType;
 import org.drools.decisiontable.SpreadsheetCompiler;
 import org.kie.api.io.ResourceType;

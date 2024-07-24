@@ -1,6 +1,6 @@
 package cn.javabook.chapter12.entity;
 
-import com.javabook.chapter05.utils.DateUtils;
+import cn.javabook.chapter12.utils.DateUtils;
 import org.springframework.data.annotation.Id;
 import java.util.Date;
 

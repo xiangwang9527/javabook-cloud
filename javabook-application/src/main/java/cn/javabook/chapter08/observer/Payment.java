@@ -1,7 +1,6 @@
 package cn.javabook.chapter08.observer;
 
 import cn.javabook.chapter08.strategy.PayStrategy;
-
 import java.util.Vector;
 
 /**
